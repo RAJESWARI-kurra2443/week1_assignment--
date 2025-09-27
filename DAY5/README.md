@@ -159,13 +159,14 @@ always @(*) begin
 end
 endmodule
 ```
-![compcase](https://github.com/user-attachments/assets/cfe97c45-a487-4f06-b4a2-74b3a61bee14)
+![compcase]<img width="1722" height="847" alt="5-5" src="https://github.com/user-attachments/assets/954b728f-9b5d-4cf8-997c-8580e28c6512" />
+
 
 ---
 
 ### Lab 6: Synthesis Result of Lab 5
 
-![compcase_synth](https://github.com/user-attachments/assets/8c871511-6e55-4e80-be11-86e9efd87cad)
+![compcase_synth]<img width="1726" height="849" alt="5-6" src="https://github.com/user-attachments/assets/b4d200e3-50b6-4ee6-8319-4bd821b6303f" />
 
 ---
 
@@ -187,7 +188,8 @@ always @(*) begin
 end
 endmodule
 ```
-![badcase](https://github.com/user-attachments/assets/4ccf37aa-5502-4750-bedb-9b2ec0748a53)
+![badcase]<img width="1728" height="846" alt="5-7" src="https://github.com/user-attachments/assets/ae3aebc5-dee1-4f4d-9fd6-2dd8914e96d4" />
+
 
 ---
 
