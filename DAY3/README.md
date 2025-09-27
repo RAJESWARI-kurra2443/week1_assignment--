@@ -97,8 +97,7 @@ Follow the steps from [Day 1 Synthesis Lab](https://github.com/Ahtesham18112011/
 ```shell
 opt_clean -purge
 ```
-
-![Lab 1 Output](https://github.com/user-attachments/assets/4d224d8d-f6f5-4a37-9732-ab570b64e31e)
+<img width="1732" height="846" alt="3-1" src="https://github.com/user-attachments/assets/8b52dc17-3f13-49d7-a80a-30178707b1d3" />
 
 ---
 
@@ -117,7 +116,8 @@ endmodule
   - `y = 1` if `a` is true.
   - `y = b` if `a` is false.
 
-![Lab 2 Output](https://github.com/user-attachments/assets/59545745-8a8b-4afd-b4d5-0a3ad1d5b80e)
+![Lab 2 Output]<img width="1731" height="844" alt="3-2" src="https://github.com/user-attachments/assets/ed74ad04-670f-424e-b412-f28ce6347fca" />
+
 
 ---
 
@@ -134,7 +134,8 @@ endmodule
 **Functionality:**  
 2-to-1 multiplexer; `y = a ? 1 : b` (outputs `1` when `a` is true, otherwise `b`).
 
-![Lab 3 Output](https://github.com/user-attachments/assets/157b16d3-cecd-441a-aacf-bae296910886)
+![Lab 3 Output]<img width="1728" height="844" alt="3-3" src="https://github.com/user-attachments/assets/d7e6ead1-c4eb-457d-8c7b-7ab672d3b073" />
+
 
 ---
 
@@ -156,7 +157,8 @@ module opt_check4 (input a , input b , input c , output y);
 - Logic simplifies to:  
   `y = a ? c : !c`
 
-![Lab 4 Output](https://github.com/user-attachments/assets/08d1e447-78c6-47c4-8c99-239645b38617)
+![Lab 4 Output]<img width="1727" height="850" alt="3-4" src="https://github.com/user-attachments/assets/1ec5e99b-df43-4682-bd35-d50f62aae9b5" />
+
 
 ---
 
@@ -181,7 +183,8 @@ endmodule
   - Asynchronous reset to 0
   - Loads constant `1` when not in reset
 
-![Lab 5 Output](https://github.com/user-attachments/assets/a42fac06-a092-4efc-be39-33b263caaaa1)
+![Lab 5 Output]<img width="1730" height="845" alt="3-5" src="https://github.com/user-attachments/assets/2d25eebc-8a60-489b-aada-84eb27651950" />
+
 
 ---
 
@@ -204,7 +207,7 @@ endmodule
 **Functionality:**
 - D flip-flop always sets output `q` to `1` (regardless of reset or clock).
 
-![Lab 6 Output](https://github.com/user-attachments/assets/ae45f7db-0a7f-4256-b43b-01cc4a1588f7)
+![Lab 6 Output]<img width="1720" height="851" alt="3-6" src="https://github.com/user-attachments/assets/5df0defc-588a-4b4d-bdda-c594ac0c5799" />
 
 ---
 
